@@ -4,7 +4,7 @@ permalink: /contact/
 ---
 
 Social Media
-: Links given in the left panel and the page bottom.
+: Links are elsewhere on the page.
 
 Work Email
 : millerja@uah.edu
