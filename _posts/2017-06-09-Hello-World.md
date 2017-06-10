@@ -20,7 +20,7 @@ In the end, I decided on [Github Pages](https://pages.github.com) and [Jekyll](h
 Thus far, I've modified the theme `head.html` file in `_includes` to invoke MathJax from its CDN. I'm sure I will not be able to write exclusively without invoking an equation at some point! This is a test of that addition... a LaTeX equation of a Lorentz transformation:
 
 \\begin{align}
-t &= \gamma (t^\prime + v t^\prime)\\\
+t &= \gamma (t^\prime + v x^\prime)\\\
 x &= \gamma (x^\prime + v t^\prime)
 \\end{align}
 
